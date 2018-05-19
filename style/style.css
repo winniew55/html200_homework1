@@ -25,3 +25,7 @@ section{
 fieldset{
   width:40%;
 }
+
+textarea{
+  width: 100%;
+}
