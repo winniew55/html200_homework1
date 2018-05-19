@@ -1,0 +1,27 @@
+html { 
+  font-size: 20px; 
+  font-family: 'Philosopher', sans-serif;
+  background-color: ghostwhite;
+  height: 100%;
+  width: 100%;
+}
+
+header{
+  background-color: black;
+  color:white;
+   text-align: center;
+  padding:3rem;
+}
+
+article{
+  padding:3rem;
+  background-color: snow;
+}
+
+section{
+  padding:3rem;
+}
+
+fieldset{
+  width:40%;
+}
